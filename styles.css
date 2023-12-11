@@ -50,13 +50,15 @@ a {
 }
 
 #json-editor {
-  width: 800px;
-  height: 500px;
-  border: 1px solid #f9a83a;
-  border-radius: 5px;
-  background-color: #fafafa;
-  padding: .75rem 1rem;
-  outline: none;
-  line-height: 2em;
-  font-size: 20px;
+ width: 800px;
+ height: 500px;
+ border: 1px solid #f9a83a;
+ border-radius: 5px;
+ background-color: #fafafa;
+ padding: .75rem 1rem;
+ outline: none;
+ line-height: 2em;
+ font-size: 20px;
+ resize: both;
 }
+
